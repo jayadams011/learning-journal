@@ -1,3 +1,3 @@
-# Learning Journal
+# Learning Journal 12-12-17
 
-This is my learning Journal. It is super dope. This is what the boss said to say for my first entry.
+Today we learned about contructors and tables in js.
