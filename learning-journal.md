@@ -1,3 +1,9 @@
+# Learning Journal 12-18-17
+
+Today we started the Bus Mall project. i am doing better then I would have last week, but I cant help but feel I am falling behind. My score on the cookie stand project isnt great and I need to do better. 
+
+
+
 # Learning Journal 12-17-17
 
 Today, while I ma not a css ninja, the latest lab definitely got my css game going.
