@@ -1,6 +1,11 @@
+# Learning Journal 12-19-17
+
+Today we worked on adding the chart to the Bus mall project. I spent a fair amount of time finishing last nights work.  Today I also hired a tutor. I hope this will help me figure this out.
+
+
 # Learning Journal 12-18-17
 
-Today we started the Bus Mall project. i am doing better then I would have last week, but I cant help but feel I am falling behind. My score on the cookie stand project isnt great and I need to do better. 
+Today we started the Bus Mall project. i am doing better then I would have last week, but I cant help but feel I am falling behind. My score on the cookie stand project isnt great and I need to do better.
 
 
 
