@@ -1,3 +1,8 @@
+# Learning Journal 12-20-17
+
+Today I added the chart to the page and was able to render the data to the chart.  I also added local-storage functionality to the web site to store the data.
+
+
 # Learning Journal 12-19-17
 
 Today we worked on adding the chart to the Bus mall project. I spent a fair amount of time finishing last nights work.  Today I also hired a tutor. I hope this will help me figure this out.
