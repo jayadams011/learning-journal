@@ -1,3 +1,9 @@
+# Learning Journal 12-21-17
+
+Today We broke up into teams for our project. My team will be working on a postit notes simulation.  this could be challenging.  I wrapped up the bus mall site. 
+
+
+
 # Learning Journal 12-20-17
 
 Today I added the chart to the page and was able to render the data to the chart.  I also added local-storage functionality to the web site to store the data.
