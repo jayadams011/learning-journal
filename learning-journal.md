@@ -1,6 +1,12 @@
+# Learning Journal 12-22-17
+
+Today the team worked on first steps.  We also worked on merge conflicts as a lab. 
+
+
+
 # Learning Journal 12-21-17
 
-Today We broke up into teams for our project. My team will be working on a postit notes simulation.  this could be challenging.  I wrapped up the bus mall site. 
+Today We broke up into teams for our project. My team will be working on a postit notes simulation.  this could be challenging.  I wrapped up the bus mall site.
 
 
 
