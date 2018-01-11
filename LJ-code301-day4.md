@@ -1,0 +1,3 @@
+# Learning Journal 01-11-2018
+
+Today was our 2nd pair programming lab.  I think it went much better then yesterdays.  However, we still messed up the git hub work flow which is affecting my overall grade.  I spent some time with Kat on this and will go over it some more tonight.  I hope to get this right tomorrow.  Yesterday my lab partner was out sick, but she was in today.  My lab partner for tomorrow was out sick today, but assures me he will be3 in tomorrow.  
