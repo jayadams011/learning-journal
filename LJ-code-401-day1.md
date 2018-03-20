@@ -8,4 +8,4 @@ Next up Scott.  Went over next 10 weeks and expectations. First team assigned. W
 Then we went over expectations of todays lab and were assigned partners for the week. 
 
 # Lab
-Worked on Lab with Peter Kim as my paretner. We were the last ones done, but I feel pretty good with what we did and I feel like I contributed almost equally. Still not thinking like a programmer but closer. 
+Worked on Lab with Peter Kim as my partner. We were the last ones done, but I feel pretty good with what we did and I feel like I contributed almost equally. Still not thinking like a programmer but closer. 
